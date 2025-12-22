@@ -189,7 +189,6 @@ It demonstrates practical skills expected from a **Data Engineer / AI Engineer i
 **Wassim Elmoufakkir**
 MSc Data Engineering for Artificial Intelligence
 
-📌 *This project is part of my professional portfolio.*
 
 ---
 
