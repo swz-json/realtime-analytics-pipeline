@@ -15,6 +15,7 @@ while True:
         "amount": round(random.uniform(10, 500), 2),
         "city": random.choice(["Paris", "Nice", "Lyon"]),
         "timestamp": time.time()
+        "timestamp": time.time()
     }
     producer.send("transactions", value=data)
     print("Sent:", data)
