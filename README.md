@@ -15,8 +15,8 @@ Transactions, clicks, payments, and events are constantly flowing and i wanted t
 So I decided to build the whole pipeline myself, end to end.
 
 
-# :lotus_position: You can see the Full Project via Figma (easier) ! 
-Click this link to view the Project ->  https://www.figma.com/make/v0DRrtrvwKEjx9iA1PZjNa/Confetti-Explosion-on-Click?p=f&t=avk3mMhhpyjcGvNg-0&fullscreen=1
+# You can see the Full Project via Figma (Faster) ! 
+## !!Click this link to view the Project!! ->  https://www.figma.com/make/v0DRrtrvwKEjx9iA1PZjNa/Confetti-Explosion-on-Click?p=f&t=avk3mMhhpyjcGvNg-0&fullscreen=1
 
 
 
