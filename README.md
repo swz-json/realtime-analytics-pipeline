@@ -2,7 +2,7 @@
 ![Spark](https://img.shields.io/badge/Spark-Streaming-orange)
 ![Kafka](https://img.shields.io/badge/Kafka-Realtime-black)
 
-# 🚀 Real-Time Analytics Pipeline (Kafka → Spark Streaming)
+#  Real-Time Analytics Pipeline (Kafka → Spark Streaming)
 
 **Why I built this project ?**
 
@@ -18,9 +18,13 @@ So I decided to build the whole pipeline myself, end to end.
 # :lotus_position: You can see the Full Project via Figma (easier) ! 
 Click this link to view the Project ->  https://www.figma.com/make/v0DRrtrvwKEjx9iA1PZjNa/Confetti-Explosion-on-Click?p=f&t=avk3mMhhpyjcGvNg-0&fullscreen=1
 
+
+
+
+
 ---
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 ```
 Producer (Python)
@@ -34,7 +38,7 @@ Spark Structured Streaming
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Python 3.10+**
 * **Apache Kafka** (event streaming)
@@ -64,7 +68,7 @@ realtime-analytics-pipeline/
 
 ---
 
-## 🔄 Data Flow
+## Data Flow
 
 Each event represents a transaction:
 
